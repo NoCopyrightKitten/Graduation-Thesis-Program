@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-03-07T17:33:09",
+  "n_rows": 17031,
+  "missing_paths": {
+    "count": 0,
+    "examples": []
+  },
+  "invalid_splits": {
+    "count": 0,
+    "examples": []
+  },
+  "invalid_classes": {
+    "count": 0,
+    "examples": []
+  },
+  "train_test_md5_leakage": {
+    "count": 0,
+    "examples": []
+  },
+  "pass": true
+}

@@ -1,0 +1,17 @@
+{
+  "method": "shap",
+  "variant": "post-hoc",
+  "baseline_key": "swin_t",
+  "num_samples": 100,
+  "metrics": {
+    "mean_explain_time_sec": 20.21288263320923,
+    "median_explain_time_sec": 20.25051498413086,
+    "mean_aopc_deletion": 0.6056891123121605,
+    "mean_auc_insertion": 0.6740742944646625,
+    "mean_iou_top10": 0.5111406012914899,
+    "mean_comprehensiveness": 0.21666303966194392,
+    "mean_sufficiency": 0.6449490465829149,
+    "mean_selected_feature_ratio": 0.13584542410714287,
+    "mean_sparsity": 0.8641545758928569
+  }
+}

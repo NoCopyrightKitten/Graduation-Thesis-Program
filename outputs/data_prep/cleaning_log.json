@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-03-07T17:33:08",
+  "total_removed": 3,
+  "items": [
+    {
+      "timestamp": "2026-03-07T17:33:07",
+      "path": "archive/seg_train/seg_train/buildings/4634.jpg",
+      "md5": "25ea15ceafd51672152b5494d82678e0",
+      "action": "drop",
+      "reason": "train_test_md5_conflict_keep_test_drop_train"
+    },
+    {
+      "timestamp": "2026-03-07T17:33:08",
+      "path": "archive/seg_train/seg_train/mountain/14341.jpg",
+      "md5": "bd01397f1ce438685add3fc2797599e1",
+      "action": "drop",
+      "reason": "train_test_md5_conflict_keep_test_drop_train"
+    },
+    {
+      "timestamp": "2026-03-07T17:33:08",
+      "path": "archive/seg_train/seg_train/street/10408.jpg",
+      "md5": "c3f019c19c210d24461bbb8a247a101e",
+      "action": "drop",
+      "reason": "train_test_md5_conflict_keep_test_drop_train"
+    }
+  ]
+}

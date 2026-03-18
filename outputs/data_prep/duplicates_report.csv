@@ -1,0 +1,19 @@
+md5,count,splits,paths
+0b425690368e341777a1d5ee3aef3e1e,2,train_raw,archive/seg_train/seg_train/sea/19255.jpg | archive/seg_train/seg_train/sea/7872.jpg
+0e1ff2651ce5f2b2b435adc3704f5da8,2,train_raw,archive/seg_train/seg_train/glacier/8191.jpg | archive/seg_train/seg_train/mountain/16696.jpg
+25ea15ceafd51672152b5494d82678e0,2,test;train_raw,archive/seg_train/seg_train/buildings/4634.jpg | archive/seg_test/seg_test/street/21170.jpg
+2ae38911a2006f58fe5aa8e3d3a8cf99,2,train_raw,archive/seg_train/seg_train/mountain/7037.jpg | archive/seg_train/seg_train/sea/6337.jpg
+336ff282d3c3e4321e1a1629140a8548,2,train_raw,archive/seg_train/seg_train/street/17693.jpg | archive/seg_train/seg_train/street/7618.jpg
+3d9b861a96cd03baa559be30bc556aac,2,train_raw,archive/seg_train/seg_train/glacier/10234.jpg | archive/seg_train/seg_train/mountain/7654.jpg
+40be514c270413db4633722eccf50030,2,train_raw,archive/seg_train/seg_train/buildings/5069.jpg | archive/seg_train/seg_train/street/2764.jpg
+6484e0723374a04aefc680963a9fed6a,2,train_raw,archive/seg_train/seg_train/glacier/16827.jpg | archive/seg_train/seg_train/mountain/15770.jpg
+9638ed015d3b5acd69e8f4123ffe8674,2,train_raw,archive/seg_train/seg_train/buildings/4551.jpg | archive/seg_train/seg_train/street/1495.jpg
+a687bd9f1e8ff567fb44e5ea081cb1ee,2,train_raw,archive/seg_train/seg_train/forest/8688.jpg | archive/seg_train/seg_train/forest/8689.jpg
+a878cdfd9de29964fb3a84e8dacd7034,2,train_raw,archive/seg_train/seg_train/street/3492.jpg | archive/seg_train/seg_train/street/373.jpg
+b1d681429db12d50c411d0dee7877a60,2,train_raw,archive/seg_train/seg_train/forest/15657.jpg | archive/seg_train/seg_train/forest/18807.jpg
+bd01397f1ce438685add3fc2797599e1,2,test;train_raw,archive/seg_train/seg_train/mountain/14341.jpg | archive/seg_test/seg_test/glacier/21469.jpg
+c3f019c19c210d24461bbb8a247a101e,2,test;train_raw,archive/seg_train/seg_train/street/10408.jpg | archive/seg_test/seg_test/buildings/20805.jpg
+dbed042ce7656ea1405a5ceae961854b,2,train_raw,archive/seg_train/seg_train/glacier/19319.jpg | archive/seg_train/seg_train/mountain/6518.jpg
+df643baaba2cb05f61c38ff9c55bfa62,2,train_raw,archive/seg_train/seg_train/buildings/9769.jpg | archive/seg_train/seg_train/street/7293.jpg
+eb23b1e185bdcdef9aabb9863d295a7e,2,train_raw,archive/seg_train/seg_train/glacier/16044.jpg | archive/seg_train/seg_train/mountain/17775.jpg
+eeab7c580204f9d5c7df9941e491e1a6,2,train_raw,archive/seg_train/seg_train/glacier/8608.jpg | archive/seg_train/seg_train/mountain/19959.jpg

@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-03-07T17:33:08",
+  "by_split": {
+    "train": {
+      "buildings": 1971,
+      "forest": 2044,
+      "glacier": 2164,
+      "mountain": 2260,
+      "sea": 2047,
+      "street": 2143
+    },
+    "val": {
+      "buildings": 219,
+      "forest": 227,
+      "glacier": 240,
+      "mountain": 251,
+      "sea": 227,
+      "street": 238
+    },
+    "test": {
+      "buildings": 437,
+      "forest": 474,
+      "glacier": 553,
+      "mountain": 525,
+      "sea": 510,
+      "street": 501
+    }
+  },
+  "train_imbalance_ratio_max_min": 1.1466260781329274
+}

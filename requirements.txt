@@ -1,0 +1,18 @@
+# Core scientific stack
+numpy
+pandas
+Pillow
+scikit-learn
+scikit-image
+PyYAML
+
+# Deep learning
+torch
+torchvision
+
+# Explainability
+lime
+shap
+
+# Notebook environment
+jupyterlab

@@ -1,0 +1,17 @@
+{
+  "method": "vibi_e2e",
+  "variant": "end-to-end",
+  "baseline_key": "swin_t",
+  "num_samples": 3000,
+  "metrics": {
+    "mean_explain_time_sec": 0.006730100154876709,
+    "median_explain_time_sec": 0.006445646286010742,
+    "mean_aopc_deletion": 0.2896999482165282,
+    "mean_auc_insertion": 0.7462508273424737,
+    "mean_iou_top10": 0.7276858909497677,
+    "mean_comprehensiveness": 0.0513074469647713,
+    "mean_sufficiency": 0.32030311635566555,
+    "mean_selected_feature_ratio": 0.16326530612244897,
+    "mean_sparsity": 0.836734693877551
+  }
+}

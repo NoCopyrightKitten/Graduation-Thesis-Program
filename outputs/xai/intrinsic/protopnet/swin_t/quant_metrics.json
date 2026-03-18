@@ -1,0 +1,17 @@
+{
+  "method": "protopnet",
+  "variant": "intrinsic",
+  "baseline_key": "swin_t",
+  "num_samples": 3000,
+  "metrics": {
+    "mean_explain_time_sec": 0.0072189030647277835,
+    "median_explain_time_sec": 0.007163524627685547,
+    "mean_aopc_deletion": 0.16404955095493542,
+    "mean_auc_insertion": 0.5484735106553572,
+    "mean_iou_top10": 0.6938068770515986,
+    "mean_comprehensiveness": 0.03076777927794804,
+    "mean_sufficiency": 0.07990517045464367,
+    "mean_selected_feature_ratio": 0.17180952380952377,
+    "mean_sparsity": 0.8281904761904761
+  }
+}

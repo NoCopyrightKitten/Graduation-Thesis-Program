@@ -1,0 +1,17 @@
+{
+  "method": "lime",
+  "variant": "post-hoc",
+  "baseline_key": "swin_t",
+  "num_samples": 100,
+  "metrics": {
+    "mean_explain_time_sec": 3.759942810535431,
+    "median_explain_time_sec": 3.7737780809402466,
+    "mean_aopc_deletion": 0.4969859313368796,
+    "mean_auc_insertion": 0.7251330716535449,
+    "mean_iou_top10": 0.47923392042983387,
+    "mean_comprehensiveness": 0.11320951474830508,
+    "mean_sufficiency": 0.07197372533380986,
+    "mean_selected_feature_ratio": 0.08693080357142856,
+    "mean_sparsity": 0.9130691964285712
+  }
+}

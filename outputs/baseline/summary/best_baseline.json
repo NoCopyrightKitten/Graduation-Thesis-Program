@@ -1,0 +1,8 @@
+{
+  "primary_metric": "test_macro_f1",
+  "best_model_key": "swin_t",
+  "best_test_acc": 0.942,
+  "best_test_macro_f1": 0.9426744994848889,
+  "best_val_macro_f1": 0.949569452853671,
+  "ranking_path": "/root/outputs/baseline/summary/baseline_ranking.csv"
+}

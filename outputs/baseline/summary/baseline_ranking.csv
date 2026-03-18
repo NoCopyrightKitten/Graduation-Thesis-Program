@@ -1,0 +1,5 @@
+model_key,exists,test_acc,test_macro_f1,best_val_macro_f1,metrics_path
+swin_t,True,0.942,0.9426744994848889,0.949569452853671,/root/outputs/baseline/swin_t/metrics.json
+vit_b_16,True,0.9366666666666666,0.9377916339508335,0.9389923949134156,/root/outputs/baseline/vit_b_16/metrics.json
+vgg16_bn,True,0.931,0.9319553618798261,0.9375166653969508,/root/outputs/baseline/vgg16_bn/metrics.json
+resnet18,True,0.9296666666666666,0.9309068158308227,0.9417127393998511,/root/outputs/baseline/resnet18/metrics.json

@@ -1,0 +1,17 @@
+{
+  "method": "vibi_teacher_student",
+  "variant": "learned",
+  "baseline_key": "swin_t",
+  "num_samples": 3000,
+  "metrics": {
+    "mean_explain_time_sec": 0.012746709585189819,
+    "median_explain_time_sec": 0.012705564498901367,
+    "mean_aopc_deletion": 0.2472231010504843,
+    "mean_auc_insertion": 0.6604471471141713,
+    "mean_iou_top10": 0.809746596564347,
+    "mean_comprehensiveness": 0.08330967455854019,
+    "mean_sufficiency": 0.09739543846684198,
+    "mean_selected_feature_ratio": 0.16326530612244897,
+    "mean_sparsity": 0.836734693877551
+  }
+}
